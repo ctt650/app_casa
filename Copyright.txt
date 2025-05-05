@@ -1,0 +1,6 @@
+Copyright (c) 2025 Casa Perutxo
+Tots els drets reservats.
+Aquest programari i els fitxers associats són propietat de Casa Perutxo i estan protegits per les lleis de drets d'autor i tractats internacionals aplicables.
+No es permet la còpia, distribució, modificació, venda ni ús comercial d'aquest programari o de qualsevol part del mateix sense l'autorització prèvia i expressa per escrit de l'autor.
+Aquest programari es proporciona "tal com és", sense cap garantia, expressa o implícita, incloses però no limitades a les garanties de comerciabilitat, idoneïtat per a un propòsit particular i no infracció.
+Per a més informació o per obtenir una llicència, contacteu amb: casaperutxo@gmail.com.
