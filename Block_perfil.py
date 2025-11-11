@@ -14,7 +14,7 @@ def mostrar_perfil():
         print(f"Contrasenya: {perfil['contrasenya']}")
     else:
         print("Encara no tens perfil creat.")
-
+#Comentari
 def editar_perfil():
     """Permet editar el perfil"""
     print("\n--- EDITAR PERFIL ---")
